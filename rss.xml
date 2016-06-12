@@ -4,8 +4,15 @@
         <description><![CDATA[DAVID LYNCH ART paintings sculptures photography graphics]]></description>
         <link>https://thegrid.ai/dlart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 22:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 22:06:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dlart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc0a54bb-2559-4674-ae23-6864ca40c5b4.jpg">]]></description>
+            <link>https://thegrid.ai/dlart/63171cdb-0438-4954-bb3f-6b4a34a4b4ba/index.html</link>
+            <guid isPermaLink="false">63171cdb-0438-4954-bb3f-6b4a34a4b4ba</guid>
+            <pubDate>Sun, 12 Jun 2016 21:58:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[201: David Lynch Lot of Three : Lot 201]]></title>
             <description><![CDATA[<article><h1>201: David Lynch Lot of Three : Lot 201</h1><p>Lot:201: David Lynch Lot of Three, Lot Number:201, Starting Bid:$1250, Auctioneer:Santa Monica Auctions, Auction:Santa Monica Auctions Annual Summer Sale, Date:12:00 PM PT - Jun 1st, 2008</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee17a9857957457fd06917d7dc4fabb96da2d4fb.jpg"></article>]]></description>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[David Lynch Abstract Art in the Living Room : Lot 76]]></title>
-            <description><![CDATA[<article><h1>David Lynch Abstract Art in the Living Room : Lot 76</h1><p>Lot:David Lynch Abstract Art in the Living Room, Lot Number:76, Starting Bid:$2500, Auctioneer:Santa Monica Auctions, Auction:Live Public Art Auction, Date:01:00 PM PT - Jun 5th, 2016</p><img src="https://p2.liveauctioneers.com/131/88544/45329043_1_m.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>David Lynch Abstract Art in the Living Room : Lot 76</h1><p>Lot:David Lynch Abstract Art in the Living Room, Lot Number:76, Starting Bid:$2500, Auctioneer:Santa Monica Auctions, Auction:Live Public Art Auction, Date:01:00 PM PT - Jun 5th, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b8f47fa46d5e5a4640a74121343ff15ff8dd6db.jpg"></article>]]></description>
             <link>https://www.liveauctioneers.com/item/45329043_david-lynch-abstract-art-in-the-living-room</link>
             <guid isPermaLink="false">45e412e8-62dc-4a1f-8fa5-c19eabeda660</guid>
             <pubDate>Sun, 12 Jun 2016 21:57:24 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/dlart/idem-paris-by-david-lynch/index.html</link>
             <guid isPermaLink="false">37a6f9d1-0907-43d7-b16c-790ddebe6c98</guid>
             <pubDate>Sun, 12 Jun 2016 21:56:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Lynch]]></title>
-            <description><![CDATA[<article><h1>My Lynch</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cd40869-6af6-4a1a-925d-65ed974560ac.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dlart/my-lynch/index.html</link>
-            <guid isPermaLink="false">2519f84e-530d-4340-b48f-04a5ab86e707</guid>
-            <pubDate>Sun, 12 Jun 2016 21:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
