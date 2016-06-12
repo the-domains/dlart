@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[DAVID LYNCH ART paintings sculptures photography graphics]]></title>
         <description><![CDATA[DAVID LYNCH ART paintings sculptures photography graphics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dlart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 19:38:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 12 Jun 2016 19:38:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dlart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Man Waking from a Dream by David Lynch | Paddle8]]></title>
+            <description><![CDATA[<article><h1>Man Waking from a Dream by David Lynch | Paddle8</h1><p>This lot ships from Los Angeles, CA, US. Please note that work will not be available until after May 21st for pick up or delivery. Art will be held in storage through June 10th free of charge, then after this date, storage fees will apply.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03661bba4694acae2d10035c89072dda35ff1143.jpg"></article>]]></description>
+            <link>https://paddle8.com/work/david-lynch/62963-man-waking-from-a-dream/</link>
+            <guid isPermaLink="false">3046fa91-b88b-446f-ba75-dc648ffa845a</guid>
+            <pubDate>Sun, 12 Jun 2016 19:38:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[David Lynch | My Girlfriend Had Red Hair (2013) | Available for Sale | Artsy]]></title>
             <description><![CDATA[<article><h1>David Lynch | My Girlfriend Had Red Hair (2013) | Available for Sale | Artsy</h1><p>Available for sale from Kayne Griffin Corcoran, David Lynch, My Girlfriend Had Red Hair (2013), Mixed media on canvas, 42 × 48 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0826fd40a75da588ca246226de69a9d92f31314c.jpg"></article>]]></description>
