@@ -1,14 +1,29 @@
+name: DLART
+favicon: null
 layout_spectrum: 0.8456865730695426
 typography_spectrum: 0.5794997231569141
+title: DAVID LYNCH ART paintings sculptures photography graphics
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.5868424798827618
-  lightness: 0.844400946283713
-  saturation: 0.5288098191376776
-  rhythmicContrast: 0.6512488140724599
   brandColors:
     - '#450003'
     - '#5C0002'
     - '#94090D'
     - '#D40D12'
     - '#FF1D23'
-name: DLART
+  brandStrength: 0.5868424798827618
+  lightness: 0.844400946283713
+  saturation: 0.5288098191376776
+  rhythmicContrast: 0.6512488140724599
+purpose: []
