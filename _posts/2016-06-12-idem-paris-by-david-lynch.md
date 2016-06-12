@@ -2,57 +2,80 @@
 inFeed: false
 hasPage: true
 inNav: true
-inLanguage: null
-keywords: []
+inLanguage: en
+keywords:
+  - lynch
+  - duration
+  - david
+  - views
+  - qagoma
+  - '983'
+  - '183'
+  - meditation
+  - idemparis
+  - creativity
 description: >-
-  This is "Idem Paris by David Lynch" by villadalesia on Vimeo, the home for
-  high quality videos and the people who love them.
-datePublished: '2016-06-12T19:22:29.796Z'
-dateModified: '2016-06-12T19:17:29.354Z'
+  Film by David Lynch Idem Paris fine art printshop master printers: Christian
+  Charpin Khindelvert Em Patrick Pramil Phaythoune Soukaloun edited by Noriko
+  Miyakawa mixed by Dean Hurley copyright David Lynch 2012
+  http://www.idemparis.com/
+  http://www.itemeditions.com/catalogue/lynch/index13.html
+datePublished: '2016-06-12T19:22:29.841Z'
+dateModified: '2016-06-12T19:17:57.474Z'
 author:
-  - name: Villadalésia & Co
-    url: 'http://vimeo.com/villadalesia'
+  - name: Idem Paris
+    url: 'https://www.youtube.com/channel/UCLCtJ8pooz3_WymxUvunGlQ'
     avatar: {}
 related: []
 app_links:
-  - url: 'vimeo://app.vimeo.com/videos/59241380'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=V_VKCjeMzhg&feature=applinks'
     type: ios
     namespace: ai
-    app_name: Vimeo
-    app_store_id: '425194759'
-  - should_fallback: 'true'
-    app_name: Vimeo
-    package: com.vimeo.android.videoapp
-    url: 'vimeo://app.vimeo.com/videos/59241380'
+    app_store_id: '544007664'
+    app_name: YouTube
+  - url: 'vnd.youtube://www.youtube.com/watch?v=V_VKCjeMzhg&feature=applinks'
+    type: android
     namespace: ai
+    app_name: YouTube
+    package: com.google.android.youtube
+  - url: 'https://www.youtube.com/watch?v=V_VKCjeMzhg&feature=applinks'
     type: web
-  - url: 'vimeo://app.vimeo.com/videos/59241380'
+    namespace: ai
+  - url: 'vnd.youtube://www.youtube.com/watch?v=V_VKCjeMzhg&feature=applinks'
     namespace: twitter
     type: ipad
-    name: Vimeo
-    id: '425194759'
-  - url: 'vimeo://app.vimeo.com/videos/59241380'
+    name: YouTube
+    id: '544007664'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=V_VKCjeMzhg&feature=applinks'
     namespace: twitter
     type: iphone
-    name: Vimeo
-    id: '425194759'
-  - url: 'vimeo://app.vimeo.com/videos/59241380'
+    name: YouTube
+    id: '544007664'
+  - url: 'https://www.youtube.com/watch?v=V_VKCjeMzhg'
     namespace: twitter
     type: googleplay
-    name: Vimeo
-    id: com.vimeo.android.videoapp
-title: Idem Paris by David Lynch
+    name: YouTube
+    id: com.google.android.youtube
+  - path: http/www.youtube.com/watch?v=V_VKCjeMzhg
+    package: com.google.android.youtube
+    namespace: google
+    type: android
+  - path: vnd.youtube/www.youtube.com/watch?v=V_VKCjeMzhg
+    package: '544007664'
+    namespace: google
+    type: ios
+title: IDEM PARIS by DAVID LYNCH
 sourcePath: _posts/2016-06-12-idem-paris-by-david-lynch.md
 authors: []
 publisher:
-  name: Vimeo
-  domain: vimeo.com
-  url: 'https://vimeo.com/'
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
 url: idem-paris-by-david-lynch/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F59241380&amp;url=https%3A%2F%2Fvimeo.com%2F59241380&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F412745206_640.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FV_VKCjeMzhg%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV_VKCjeMzhg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FV_VKCjeMzhg%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
