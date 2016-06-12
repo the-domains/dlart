@@ -24,6 +24,6 @@ color:
     - '#FF1D23'
   brandStrength: 0
   lightness: 0.4375
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
