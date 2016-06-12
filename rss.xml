@@ -4,8 +4,15 @@
         <description><![CDATA[DAVID LYNCH ART paintings sculptures photography graphics]]></description>
         <link>https://thegrid.ai/dlart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 22:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 22:06:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dlart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da254d37-918d-416c-bea8-7ae698d7efbc.jpg">]]></description>
+            <link>https://thegrid.ai/dlart/5e86be9f-2b60-446c-90ce-92e2c21b85e8/index.html</link>
+            <guid isPermaLink="false">5e86be9f-2b60-446c-90ce-92e2c21b85e8</guid>
+            <pubDate>Sun, 12 Jun 2016 22:05:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[15: David Lynch (2 black & white pieces, Grou : Lot 15]]></title>
             <description><![CDATA[<article><h1>15: David Lynch (2 black & white pieces, Grou : Lot 15</h1><p>Lot:15: David Lynch (2 black & white pieces, Grou, Lot Number:15, Starting Bid:$1400, Auctioneer:Santa Monica Auctions, Auction:20th Century Modern and Contemporary Fine Art, Date:05:00 PM PT - May 31st, 2003</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e34d1637472dbb20b98da6da86980acb832e575.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.liveauctioneers.com/item/45329043_david-lynch-abstract-art-in-the-living-room</link>
             <guid isPermaLink="false">45e412e8-62dc-4a1f-8fa5-c19eabeda660</guid>
             <pubDate>Sun, 12 Jun 2016 21:57:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fd9da98-69d4-456f-8c7e-185e798d8427.jpg">]]></description>
-            <link>https://thegrid.ai/dlart/77ce09e6-3c22-4cbd-a0be-9e098e6f138f/index.html</link>
-            <guid isPermaLink="false">77ce09e6-3c22-4cbd-a0be-9e098e6f138f</guid>
-            <pubDate>Sun, 12 Jun 2016 21:57:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
