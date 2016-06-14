@@ -8,6 +8,13 @@
         <atom:link href="https://thegrid.ai/dlart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63b287d5-00a9-4f98-bc6b-9f1750f79145.jpg">]]></description>
+            <link>https://thegrid.ai/dlart/891813d6-4333-4d9f-b772-3d701d6d1f69/index.html</link>
+            <guid isPermaLink="false">891813d6-4333-4d9f-b772-3d701d6d1f69</guid>
+            <pubDate>Tue, 14 Jun 2016 19:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a68adbcd-f100-43ed-807e-206da056f4c9.jpg">]]></description>
             <link>https://thegrid.ai/dlart/7fd1b2eb-59c2-4e0d-bc34-107b155ed591/index.html</link>
             <guid isPermaLink="false">7fd1b2eb-59c2-4e0d-bc34-107b155ed591</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>David Lynch, Works on Paper - Limited edition</h1><p>David Lynch, Works on Paper - Limited edition Limited edition created in conjunction with the publication of David Lynch, Works on Paper. For more information about the shipping, please contact us : info.reservation@fondation.cartier</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/198fbd8474e6f40979bcbce966fe971728164ef1.jpg"></article>]]></description>
             <link>http://eshop.fondationcartier.com/en/limited-editions/3307-coffret-works-on-paper.html</link>
             <guid isPermaLink="false">c3651a94-2437-4d4e-b4b0-bad69eb5dcad</guid>
-            <pubDate>Tue, 14 Jun 2016 19:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f03bc95-0a04-481a-98c6-908889547b27.jpg">]]></description>
-            <link>https://thegrid.ai/dlart/2d7117e2-0da6-4524-b043-fc59c01486f3/index.html</link>
-            <guid isPermaLink="false">2d7117e2-0da6-4524-b043-fc59c01486f3</guid>
             <pubDate>Tue, 14 Jun 2016 19:15:22 GMT</pubDate>
         </item>
     </channel>
