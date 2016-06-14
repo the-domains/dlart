@@ -4,8 +4,15 @@
         <description><![CDATA[DAVID LYNCH ART paintings sculptures photography graphics]]></description>
         <link>https://thegrid.ai/dlart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 19:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 19:15:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dlart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.paris-art.com/img_news/createur/g_LieuDesign13Mineral05aLynch.jpg">]]></description>
+            <link>https://thegrid.ai/dlart/e7638d5e-e9dc-492f-a74d-2b28e8c95232/index.html</link>
+            <guid isPermaLink="false">e7638d5e-e9dc-492f-a74d-2b28e8c95232</guid>
+            <pubDate>Tue, 14 Jun 2016 19:15:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/920830df-d0cd-4525-81fa-311a5db4679b.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.liveauctioneers.com/item/5286087_david-lynch-lot-of-three</link>
             <guid isPermaLink="false">540e87c8-95ee-493c-a605-676c90a59fe2</guid>
             <pubDate>Sun, 12 Jun 2016 21:57:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/610cfeb1-0e4d-48e7-8bc8-20a667b593ae.png">]]></description>
-            <link>https://thegrid.ai/dlart/14edd2d3-f65c-4cd1-b681-ecf4b022ffb0/index.html</link>
-            <guid isPermaLink="false">14edd2d3-f65c-4cd1-b681-ecf4b022ffb0</guid>
-            <pubDate>Sun, 12 Jun 2016 21:57:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
