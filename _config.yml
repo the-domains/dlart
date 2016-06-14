@@ -1,7 +1,7 @@
 name: DLART
 favicon: null
 layout_spectrum: 0.51537
-typography_spectrum: 0.4590289746411145
+typography_spectrum: 0.5349409035407007
 title: DAVID LYNCH ART paintings sculptures photography graphics
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
-  brandStrength: 0.18225878663361073
-  lightness: 0.1114008161239326
-  saturation: 0.3967036698013544
-  rhythmicContrast: 0.4955590795725584
+  brandStrength: 0.9008798531722277
+  lightness: 0.9938461903948337
+  saturation: 0.10099427099339664
+  rhythmicContrast: 0.99090487184003
 purpose: []
