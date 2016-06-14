@@ -4,8 +4,22 @@
         <description><![CDATA[DAVID LYNCH ART paintings sculptures photography graphics]]></description>
         <link>https://thegrid.ai/dlart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 19:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 19:43:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dlart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5eb2a7d-030a-4766-b334-696d64804ce0.jpg">]]></description>
+            <link>https://thegrid.ai/dlart/a69defcd-bc88-4344-9361-3edbe7f10ef3/index.html</link>
+            <guid isPermaLink="false">a69defcd-bc88-4344-9361-3edbe7f10ef3</guid>
+            <pubDate>Tue, 14 Jun 2016 19:42:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9d971a6-cc9a-4268-81c5-3f093d9b0b23.jpg">]]></description>
+            <link>https://thegrid.ai/dlart/7f638e14-161f-4c7c-af01-1ee3e5f47a9a/index.html</link>
+            <guid isPermaLink="false">7f638e14-161f-4c7c-af01-1ee3e5f47a9a</guid>
+            <pubDate>Tue, 14 Jun 2016 19:42:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b258e140-8933-476a-8bb7-f2f22617f9fe.jpg">]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab90dcae-5074-4cec-9dc4-39e70ddcf751.jpg">]]></description>
             <link>https://thegrid.ai/dlart/e34dfa04-8777-4d12-92d8-3dac5d5dc17f/index.html</link>
             <guid isPermaLink="false">e34dfa04-8777-4d12-92d8-3dac5d5dc17f</guid>
-            <pubDate>Tue, 14 Jun 2016 19:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce790c48-272d-437c-922a-3d938e6c4d7c.jpg">]]></description>
-            <link>https://thegrid.ai/dlart/3f63bc29-9076-4814-a36f-b4321bff7f1d/index.html</link>
-            <guid isPermaLink="false">3f63bc29-9076-4814-a36f-b4321bff7f1d</guid>
-            <pubDate>Tue, 14 Jun 2016 19:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0c1eda4-975e-4c84-89fe-6cbab414cb6a.jpg">]]></description>
-            <link>https://thegrid.ai/dlart/bfa3c372-b981-44fc-83f1-14260511db52/index.html</link>
-            <guid isPermaLink="false">bfa3c372-b981-44fc-83f1-14260511db52</guid>
             <pubDate>Tue, 14 Jun 2016 19:42:44 GMT</pubDate>
         </item>
     </channel>
