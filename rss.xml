@@ -8,13 +8,6 @@
         <atom:link href="https://thegrid.ai/dlart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d28beb-1e8d-49f4-a1fb-161bdf793065.jpg">]]></description>
-            <link>https://thegrid.ai/dlart/be92969c-5964-458c-a561-91bcf4081e31/index.html</link>
-            <guid isPermaLink="false">be92969c-5964-458c-a561-91bcf4081e31</guid>
-            <pubDate>Tue, 14 Jun 2016 19:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cedefb22-ce82-4ed7-954c-ad8a6d4b0034.jpg">]]></description>
             <link>https://thegrid.ai/dlart/52d54eed-4abc-47cd-bfde-a069503c786b/index.html</link>
             <guid isPermaLink="false">52d54eed-4abc-47cd-bfde-a069503c786b</guid>
@@ -75,6 +68,13 @@
             <link>http://www.itemeditions.com/catalogue/lynch/index.html</link>
             <guid isPermaLink="false">a575d2d7-cce7-4727-93b5-456d2a5cd53e</guid>
             <pubDate>Tue, 14 Jun 2016 19:15:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da254d37-918d-416c-bea8-7ae698d7efbc.jpg">]]></description>
+            <link>https://thegrid.ai/dlart/5e86be9f-2b60-446c-90ce-92e2c21b85e8/index.html</link>
+            <guid isPermaLink="false">5e86be9f-2b60-446c-90ce-92e2c21b85e8</guid>
+            <pubDate>Sun, 12 Jun 2016 22:05:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
