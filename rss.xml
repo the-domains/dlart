@@ -4,8 +4,15 @@
         <description><![CDATA[DAVID LYNCH ART paintings sculptures photography graphics]]></description>
         <link>https://thegrid.ai/dlart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 19:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 19:42:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dlart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce790c48-272d-437c-922a-3d938e6c4d7c.jpg">]]></description>
+            <link>https://thegrid.ai/dlart/3f63bc29-9076-4814-a36f-b4321bff7f1d/index.html</link>
+            <guid isPermaLink="false">3f63bc29-9076-4814-a36f-b4321bff7f1d</guid>
+            <pubDate>Tue, 14 Jun 2016 19:42:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0c1eda4-975e-4c84-89fe-6cbab414cb6a.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/dlart/df2dcde4-0dd1-4d59-8192-79e0690ffb75/index.html</link>
             <guid isPermaLink="false">df2dcde4-0dd1-4d59-8192-79e0690ffb75</guid>
             <pubDate>Tue, 14 Jun 2016 19:39:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43246a99-0123-43ad-a816-d02cc8831e2f.jpg">]]></description>
-            <link>https://thegrid.ai/dlart/a6f97a46-7157-4cdb-99df-6571ce319258/index.html</link>
-            <guid isPermaLink="false">a6f97a46-7157-4cdb-99df-6571ce319258</guid>
-            <pubDate>Tue, 14 Jun 2016 19:39:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
