@@ -8,6 +8,13 @@
         <atom:link href="https://thegrid.ai/dlart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88926380-fe08-41b4-891c-f08ebbe487d8.jpg">]]></description>
+            <link>https://thegrid.ai/dlart/af578bdb-1db4-447a-b463-3189427dd441/index.html</link>
+            <guid isPermaLink="false">af578bdb-1db4-447a-b463-3189427dd441</guid>
+            <pubDate>Tue, 14 Jun 2016 19:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8cfbad-62d5-4d82-826d-00b1e8ee1892.jpg">]]></description>
             <link>https://thegrid.ai/dlart/05d39854-9c46-42d3-9116-e2cce84253c3/index.html</link>
             <guid isPermaLink="false">05d39854-9c46-42d3-9116-e2cce84253c3</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/349f1cba-d6e7-4116-9454-6bac23ccef1d.jpg">]]></description>
             <link>https://thegrid.ai/dlart/50ccfd1d-48e3-445b-acc7-6da61bc607e0/index.html</link>
             <guid isPermaLink="false">50ccfd1d-48e3-445b-acc7-6da61bc607e0</guid>
-            <pubDate>Tue, 14 Jun 2016 19:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63b287d5-00a9-4f98-bc6b-9f1750f79145.jpg">]]></description>
-            <link>https://thegrid.ai/dlart/891813d6-4333-4d9f-b772-3d701d6d1f69/index.html</link>
-            <guid isPermaLink="false">891813d6-4333-4d9f-b772-3d701d6d1f69</guid>
             <pubDate>Tue, 14 Jun 2016 19:15:24 GMT</pubDate>
         </item>
     </channel>
