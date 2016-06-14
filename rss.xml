@@ -4,15 +4,8 @@
         <description><![CDATA[DAVID LYNCH ART paintings sculptures photography graphics]]></description>
         <link>https://thegrid.ai/dlart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 19:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 19:18:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dlart/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f156d4b-55e3-42fd-a36e-a9f8930880d6.jpg">]]></description>
-            <link>https://thegrid.ai/dlart/216499e6-e88a-43a8-92d6-49a0f858e341/index.html</link>
-            <guid isPermaLink="false">216499e6-e88a-43a8-92d6-49a0f858e341</guid>
-            <pubDate>Tue, 14 Jun 2016 19:15:31 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0acadfc2-03b4-40e2-9d6e-9a868d0e95ca.jpg">]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04188d35-1de6-46e2-8e87-eb509c4f6c14.jpg">]]></description>
             <link>https://thegrid.ai/dlart/c998ac54-0741-4574-a519-4ebbdb4dbf36/index.html</link>
             <guid isPermaLink="false">c998ac54-0741-4574-a519-4ebbdb4dbf36</guid>
+            <pubDate>Tue, 14 Jun 2016 19:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d32dm0rphc51dk.cloudfront.net/MDw9aPEgoV0pLWRGE2TpAA/larger.jpg">]]></description>
+            <link>https://thegrid.ai/dlart/12ac2b1c-e022-4564-a05f-20fda4966c03/index.html</link>
+            <guid isPermaLink="false">12ac2b1c-e022-4564-a05f-20fda4966c03</guid>
             <pubDate>Tue, 14 Jun 2016 19:15:30 GMT</pubDate>
         </item>
     </channel>
