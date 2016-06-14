@@ -4,8 +4,15 @@
         <description><![CDATA[DAVID LYNCH ART paintings sculptures photography graphics]]></description>
         <link>https://thegrid.ai/dlart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 19:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 19:39:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dlart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43246a99-0123-43ad-a816-d02cc8831e2f.jpg">]]></description>
+            <link>https://thegrid.ai/dlart/a6f97a46-7157-4cdb-99df-6571ce319258/index.html</link>
+            <guid isPermaLink="false">a6f97a46-7157-4cdb-99df-6571ce319258</guid>
+            <pubDate>Tue, 14 Jun 2016 19:39:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4871a64-ad78-494d-af5e-c8db8ee86ba7.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5720267c-4ae2-4669-9c0a-95fef3d702cf.jpg">]]></description>
             <link>https://thegrid.ai/dlart/952d2a53-2de0-4e41-aa2f-9cac993b8050/index.html</link>
             <guid isPermaLink="false">952d2a53-2de0-4e41-aa2f-9cac993b8050</guid>
-            <pubDate>Tue, 14 Jun 2016 19:15:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0a50d7b-af80-4f5c-a01f-9438078623db.jpg">]]></description>
-            <link>https://thegrid.ai/dlart/38aea9c4-becf-400b-9eb3-9b0abb096851/index.html</link>
-            <guid isPermaLink="false">38aea9c4-becf-400b-9eb3-9b0abb096851</guid>
             <pubDate>Tue, 14 Jun 2016 19:15:33 GMT</pubDate>
         </item>
     </channel>
